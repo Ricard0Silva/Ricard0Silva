@@ -2,15 +2,17 @@
 
 ###
 
-<p align="left">Meu nome é Ricardo Leal Silva, sou formado em Redes de Computadores e tenho uma sólida trajetória na área de Tecnologia da Informação. Comecei minha carreira em 2015, cursando Técnico em Informática no IFPA, com estágio na OAB Paragominas-PA. Atualmente, trabalho na TecSil Soluções de Informática como Técnico de Informática, sendo responsável pela infraestrutura.<br><br>Nos últimos anos, busquei me especializar em computação em nuvem e automação. Sou certificado AWS Cloud Practitioner, com conhecimentos em DevOps e CI/CD, utilizando Ansible, Python e shell script. Estou em transição para a área de cloud computing e atualmente no processo de obtenção da certificação AWS Solutions Architect Associate.<br><br>Tenho experiência nas seguintes áreas:<br><br>Virtualização<br>Automação com Terraform e Ansible<br>Orquestração com Kubernetes e Vagrant<br>Contêineres com Docker<br>Controle de versão com Git e GitHub<br>Administração de sistemas Windows e Linux<br>Programação em Python e Shell Script<br>Integração Contínua e Entrega Contínua (CI/CD)</p>
+<p align="left">My name is Ricardo Leal Silva, I hold a degree in Computer Networks and have a solid background in Information Technology. I began my career in 2015, studying Computer Technician at IFPA, with an internship at OAB Paragominas-PA. Currently, I work at TecSil Soluções de Informática as an IT Technician, responsible for infrastructure.<br><br>In recent years, I have focused on specializing in cloud computing and automation. I am AWS Cloud Practitioner certified, with knowledge in DevOps and CI/CD, using Ansible, Python, and shell scripting. I am transitioning to the cloud computing field and currently in the process of obtaining the AWS Solutions Architect Associate certification.</p>
 
 ###
 
-<h3 align="left">Techs</h3>
+<h2 align="left">Techs</h2>
 
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
@@ -21,11 +23,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
 ###
@@ -33,6 +39,30 @@
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=Ricard0Silva&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ricard0Silva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="left">Social</h2>
+
+###
+
+<div align="left">
+  <a href="https://wa.me/qr/CHGF32GRVEJGG1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="63" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/ricardo-leal-silva/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="63" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="Discordapp.com/users/ricardoleal1582" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="63" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Ricard0Silva/count.svg?"  />
 </div>
 
 ###
