@@ -43,19 +43,19 @@
 
 ###
 
-<h2 align="left">Social</h2>
+<h2 align="center">Social Media</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://wa.me/qr/CHGF32GRVEJGG1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="63" height="40" alt="whatsapp logo"  />
   </a>
   <a href="https://www.linkedin.com/in/ricardo-leal-silva/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="63" height="40" alt="linkedin logo"  />
   </a>
-  <a href="Discordapp.com/users/ricardoleal1582" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="63" height="40" alt="discord logo"  />
+  <a href="https://www.instagram.com/ricardoleal70/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="63" height="40" alt="instagram logo"  />
   </a>
 </div>
 
